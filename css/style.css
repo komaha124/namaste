@@ -5,3 +5,9 @@ body{
    background-repeat: no-repeat;
    background-position: center;  
 }
+hed{
+    font-size: 16px;
+    color: 898f99;
+    font-family: serif;
+    margin: 143px 0 590px 590px
+}
